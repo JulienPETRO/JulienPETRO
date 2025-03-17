@@ -8,8 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julienpetro" alt="julienpetro" /></a> </p>
 
 - 🔭 I’m currently working on : **![Looping](https://img.shields.io/badge/Looping-22c55e?style=for-the-badge&logo=Looping&logoColor=white)
-                                ![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-eab308?style=for-the-badge&logo=Visual Studio Code&logoColor=white)
-                                ![Star Uml](https://img.shields.io/badge/Star Uml-22c55e?style=for-the-badge&logo=Star Uml&logoColor=white)
+                                ![VS](https://img.shields.io/badge/VS-eab308?style=for-the-badge&logo=VS&logoColor=white)
+                                ![Star-Uml](https://img.shields.io/badge/Star-Uml-22c55e?style=for-the-badge&logo=Star-Uml&logoColor=white)
                                 ![Docker](https://img.shields.io/badge/Docker-22c55e?style=for-the-badge&logo=Docker&logoColor=white)
                                 ![VMWare](https://img.shields.io/badge/VMWare-22c55e?style=for-the-badge&logo=VMWare&logoColor=white)**
 

@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on : **![Looping](https://img.shields.io/badge/Looping-22c55e?style=for-the-badge&logo=Looping&logoColor=white)
                                 ![VS](https://img.shields.io/badge/VS-eab308?style=for-the-badge&logo=VS&logoColor=white)
-                                ![Star-Uml](https://img.shields.io/badge/Star-Uml-22c55e?style=for-the-badge&logo=Star-Uml&logoColor=white)
+                                ![StarUml](https://img.shields.io/badge/StarUml-22c55e?style=for-the-badge&logo=StarUml&logoColor=white)
                                 ![Docker](https://img.shields.io/badge/Docker-22c55e?style=for-the-badge&logo=Docker&logoColor=white)
                                 ![VMWare](https://img.shields.io/badge/VMWare-22c55e?style=for-the-badge&logo=VMWare&logoColor=white)**
 

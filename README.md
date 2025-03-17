@@ -1,5 +1,7 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm PETRO-BRIDIER Julien</h1> <a href="https://linkedin.com/in/julien-petro-bridier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petro-bridier julien" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm PETRO-BRIDIER Julien</h1> 
+<p>Contacts:</p>
+<a href="https://linkedin.com/in/julien-petro-bridier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petro-bridier julien" height="30" width="40" /></a>
 </p> 
 <h3 align="center">a French student in BTS</h3>
 
@@ -17,7 +19,6 @@
 
 - 🤝 I’m looking for help with **Language and Solve all the problems**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
